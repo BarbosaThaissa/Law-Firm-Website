@@ -37,7 +37,7 @@ This project was developed with the following technology:
 
 Create a Responsive Website for Law firm, project originally created for a tutorial on Matheus Battisti!
 
-Web project: https://barbosathaissa.github.io/Landing-Page/
+Web project: https://barbosathaissa.github.io/Law-Firm-Website/
 
 ## :memo: Licença
 
